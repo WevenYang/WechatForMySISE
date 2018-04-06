@@ -1,0 +1,4 @@
+http://class.sise.com.cn:7001/SISEWeb/pub/course/courseViewAction.do?method=doMain&studentid=ZqYglPlXsdQ=
+http://class.sise.com.cn:7001/sise/module/student_schedular/student_schedular.jsp
+http://class.sise.com.cn:7001/SISEWeb/pub/exam/studentexamAction.do?method=doMain&studentid=181969
+http://class.sise.com.cn:7001/SISEWeb/pub/studentstatus/attendance/studentAttendanceViewAction.do?method=doMain&studentID=ZqYglPlXsdQ=&gzcode=jC2hUpPMAnJSAadrX4/HsQ==
