@@ -18,4 +18,5 @@
 
 # Wechat Of Mysise For Students
 
+get student's information on wechat
  
